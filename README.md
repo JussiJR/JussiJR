@@ -23,7 +23,7 @@
 
 <details>
 <summary>
-### My Extensions:
+My Extensions:
 </summary>
 - 498.cppplayground<br>
 - aaron-bond.better-comments<br>
