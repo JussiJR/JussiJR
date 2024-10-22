@@ -24,6 +24,8 @@
 <details>
 <summary>
 
+### My Extensions
+
 </summary>
 - 498.cppplayground<br>
 - aaron-bond.better-comments<br>
@@ -219,8 +221,6 @@ xuangeaha.just-enough-git<br>
 yclepticstudios.unity-snippets<br>
 zobo.php-intellisense<br>
 </details>
-
-### My Extensions
 
 <!--
 **JussiJR/JussiJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
