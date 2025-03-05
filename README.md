@@ -19,8 +19,9 @@
 - Rust -> Never Touched.<br>
 - Swift -> Never Touched.<br>
 - Go -> Never Touched.<br>
-- PHP -> Never Touched.<br>
+- PHP -> Basics.<br>
 - JavaScript -> Basics.<br>
 - SQL -> Basics.<br>
+- Kotlin -> Never touched. <br>
 </details>
 
