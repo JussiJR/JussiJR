@@ -11,6 +11,8 @@
 
 </summary>
 
+<!--Some info about my programming skills-->
+
 - C/C++ -> Learning.<br>
 - C# -> "Basics" and some more.<vr>
 - Python -> Basics.<br>
