@@ -12,9 +12,9 @@
 </summary>
 
 <!--Some info about my programming skills-->
-
+- GDScript -> Learning
 - C/C++ -> Learning.<br>
-- C# -> "Basics" and some more.<vr>
+- C# -> "Basics" and some more.<br>
 - Python -> Basics.<br>
 - Java -> Few times touched.<br>
 - HTML5 -> Basics and some more.<br>
