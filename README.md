@@ -1,8 +1,8 @@
 ## About Me 👋
 
-- 🔭 I’m currently Attending courses in Gradia Jyväskylä
+- 🔭 I’m currently Attending courses in JAMK
 - 🌱 I’m currently learning C/C++
-- 📫 How to reach me: [Email](mailto:gr275825@gradia.fi)
+- 📫 How to reach me: [Email](mailto:af1409@student.jamk.fi)
 
 <details>
 <summary>
